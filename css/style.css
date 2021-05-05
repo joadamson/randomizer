@@ -1,0 +1,19 @@
+.addAll {
+    display: none;
+}
+
+.randomBtn {
+    display: none;
+}
+
+.inputs:last-child {
+    margin-bottom: 0px !important;
+}
+
+.form-control:last-child {
+    margin-bottom: 0px !important;
+}
+
+.randomBtnLast {
+    display: none;
+}
